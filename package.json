@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.5.0",
+    "chalk": "^3.0.0",
+    "path": "^0.12.7",
+    "qrcode-terminal": "^0.12.0"
+  }
+}
